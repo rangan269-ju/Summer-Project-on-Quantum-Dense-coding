@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-GPL%20v3-blue)
 
 
-This repository contains the implementation, simulation codes, and supporting materials developed during my summer research project on **Quantum Dense Coding Using Bipartite and Multipartite Entangled States Over Noiseless and Noisy Quantum Channels: An IBM Quantum Experience**. The project investigates the performance of dense coding protocols using different entangled quantum channels under both ideal and noisy quantum environments.
+This repository contains the implementation, simulation codes, and supporting materials developed during my summer research project work at IISER Bhopal, India on **Quantum Dense Coding Using Bipartite and Multipartite Entangled States Over Noiseless and Noisy Quantum Channels: An IBM Quantum Experience**. The project investigates the performance of dense coding protocols using different entangled quantum channels under both ideal and noisy quantum environments.
 
 The simulations are implemented using **Python** and **Qiskit**, with a focus on understanding the influence of realistic quantum noise on communication efficiency and protocol robustness.
 
@@ -144,7 +144,7 @@ If you use this repository in your research, please cite it as:
 ## Author
 
 **Rangan Chakrabarty**
-
+Email ID: [![Email](https://img.shields.io/badge/Email-rangan269@gmail.com-red?logo=gmail&logoColor=white)](mailto:rangan269@gmail.com)
 B.Sc. (Hons.) Physics
 Jadavpur University, India
 
