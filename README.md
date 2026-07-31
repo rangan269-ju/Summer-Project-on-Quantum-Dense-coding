@@ -3,6 +3,8 @@
 ![Qiskit](https://img.shields.io/badge/Qiskit-Latest-6929C4)
 ![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-1261FE)
 ![License](https://img.shields.io/badge/License-GPL%20v3-blue)
+
+
 This repository contains the implementation, simulation codes, and supporting materials developed during my summer research project on **Quantum Dense Coding Using Bipartite and Multipartite Entangled States Over Noiseless and Noisy Quantum Channels: An IBM Quantum Experience**. The project investigates the performance of dense coding protocols using different entangled quantum channels under both ideal and noisy quantum environments.
 
 The simulations are implemented using **Python** and **Qiskit**, with a focus on understanding the influence of realistic quantum noise on communication efficiency and protocol robustness.
