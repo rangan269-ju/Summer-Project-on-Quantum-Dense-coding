@@ -1,6 +1,9 @@
 # Summer Project on Quantum Dense Coding
-
-This repository contains the implementation, simulation codes, and supporting materials developed during my summer research project on **Quantum Dense Coding**. The project investigates the performance of dense coding protocols using different entangled quantum channels under both ideal and noisy quantum environments.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Qiskit](https://img.shields.io/badge/Qiskit-Latest-6929C4)
+![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-1261FE)
+![License](https://img.shields.io/badge/License-GPL%20v3-blue)
+This repository contains the implementation, simulation codes, and supporting materials developed during my summer research project on **Quantum Dense Coding Using Bipartite and Multipartite Entangled States Over Noiseless and Noisy Quantum Channels: An IBM Quantum Experience**. The project investigates the performance of dense coding protocols using different entangled quantum channels under both ideal and noisy quantum environments.
 
 The simulations are implemented using **Python** and **Qiskit**, with a focus on understanding the influence of realistic quantum noise on communication efficiency and protocol robustness.
 
@@ -37,7 +40,7 @@ The protocols are evaluated under several realistic quantum noise models, includ
 * Phase Flip Channel
 * Bit-Phase Flip Channel
 
-Performance metrics such as fidelity, success probability, and communication efficiency are computed and compared.
+Performance metrics such as fidelity, success probability, communication efficiency etc. are computed and compared.
 
 ---
 
@@ -141,10 +144,10 @@ If you use this repository in your research, please cite it as:
 **Rangan Chakrabarty**
 
 B.Sc. (Hons.) Physics
-Jadavpur University
+Jadavpur University, India
 
 ---
 
 ## License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+This project is licensed under the **GPL-V3.0 License**. See the `LICENSE` file for details.
