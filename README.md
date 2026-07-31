@@ -144,8 +144,11 @@ If you use this repository in your research, please cite it as:
 ## Author
 
 **Rangan Chakrabarty**
-Email ID: [![Email](https://img.shields.io/badge/Email-rangan269@gmail.com-red?logo=gmail&logoColor=white)](mailto:rangan269@gmail.com)
+
+Email ID: [![Email](https://img.shields.io/badge/Email-ranganc.physics.ug@jadavpuruniversity.in-red?logo=gmail&logoColor=white)](mailto:ranganc.physics.ug@jadavpuruniversity.in)
+
 B.Sc. (Hons.) Physics
+
 Jadavpur University, India
 
 ---
