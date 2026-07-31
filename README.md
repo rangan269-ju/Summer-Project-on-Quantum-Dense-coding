@@ -133,9 +133,10 @@ If you use this repository in your research, please cite it as:
 ```bibtex
 @misc{chakrabarty2026qdc,
   author       = {Rangan Chakrabarty},
-  title        = {Summer Project on Quantum Dense Coding},
+  title        = {Summer Project on Quantum Dense Coding Using Bipartite and Multipartite Entangled States Over Noiseless and Noisy Quantum Channels: An IBM Quantum Experience},
   year         = {2026},
   howpublished = {\url{https://github.com/rangan269-ju/Summer-Project-on-Quantum-Dense-coding}}
+note         = {GitHub repository.}
 }
 ```
 
